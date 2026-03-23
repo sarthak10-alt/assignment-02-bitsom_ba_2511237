@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "E101",
+    "name": "Smart 4K LED TV",
+    "category": "Electronics",
+    "price": 45000,
+    "attributes": {
+      "brand": "Samsung",
+      "screen_size": "55 inch",
+      "warranty_years": 2
+    }
+  },
+  {
+    "product_id": "C202",
+    "name": "Cotton Crew Neck T-Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "attributes": {
+      "material": "100% Cotton",
+      "size": ["S", "M", "L", "XL"],
+      "color": "Navy Blue"
+    }
+  },
+  {
+    "product_id": "G303",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "price": 250,
+    "attributes": {
+      "expiry_date": "2025-05-15",
+      "volume": "1 Litre",
+      "nutritional_info": {
+        "calories": 40,
+        "fat": "3g"
+      }
+    }
+  }
+]
